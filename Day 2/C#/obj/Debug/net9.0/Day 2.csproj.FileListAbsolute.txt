@@ -1,0 +1,15 @@
+C:\Users\darre\Desktop\Projects\Advent-of-Code-2025\Day 2\C#\obj\Debug\net9.0\Day 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darre\Desktop\Projects\Advent-of-Code-2025\Day 2\C#\obj\Debug\net9.0\Day 2.AssemblyInfoInputs.cache
+C:\Users\darre\Desktop\Projects\Advent-of-Code-2025\Day 2\C#\obj\Debug\net9.0\Day 2.AssemblyInfo.cs
+C:\Users\darre\Desktop\Projects\Advent-of-Code-2025\Day 2\C#\obj\Debug\net9.0\Day 2.csproj.CoreCompileInputs.cache
+C:\Users\darre\Desktop\Projects\Advent-of-Code-2025\Day 2\C#\obj\Debug\net9.0\Day 2.sourcelink.json
+C:\Users\darre\Desktop\Projects\Advent-of-Code-2025\Day 2\C#\bin\Debug\net9.0\Day 2.exe
+C:\Users\darre\Desktop\Projects\Advent-of-Code-2025\Day 2\C#\bin\Debug\net9.0\Day 2.deps.json
+C:\Users\darre\Desktop\Projects\Advent-of-Code-2025\Day 2\C#\bin\Debug\net9.0\Day 2.runtimeconfig.json
+C:\Users\darre\Desktop\Projects\Advent-of-Code-2025\Day 2\C#\bin\Debug\net9.0\Day 2.dll
+C:\Users\darre\Desktop\Projects\Advent-of-Code-2025\Day 2\C#\bin\Debug\net9.0\Day 2.pdb
+C:\Users\darre\Desktop\Projects\Advent-of-Code-2025\Day 2\C#\obj\Debug\net9.0\Day 2.dll
+C:\Users\darre\Desktop\Projects\Advent-of-Code-2025\Day 2\C#\obj\Debug\net9.0\refint\Day 2.dll
+C:\Users\darre\Desktop\Projects\Advent-of-Code-2025\Day 2\C#\obj\Debug\net9.0\Day 2.pdb
+C:\Users\darre\Desktop\Projects\Advent-of-Code-2025\Day 2\C#\obj\Debug\net9.0\Day 2.genruntimeconfig.cache
+C:\Users\darre\Desktop\Projects\Advent-of-Code-2025\Day 2\C#\obj\Debug\net9.0\ref\Day 2.dll
